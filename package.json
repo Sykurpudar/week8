@@ -4,7 +4,8 @@
   "description": "A Maiden Voyage of my testing career",
   "main": "app.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "watch": "jest --watchAll"
   },
   "repository": {
     "type": "git",
