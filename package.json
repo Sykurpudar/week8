@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Sykurpudar/week8/issues"
   },
-  "homepage": "https://github.com/Sykurpudar/week8#readme"
+  "homepage": "https://github.com/Sykurpudar/week8#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
 }
