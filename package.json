@@ -1,0 +1,22 @@
+{
+  "name": "week8",
+  "version": "1.0.0",
+  "description": "A Maiden Voyage of my testing career",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sykurpudar/week8.git"
+  },
+  "keywords": [
+    "jest"
+  ],
+  "author": "Þórður Atlason",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sykurpudar/week8/issues"
+  },
+  "homepage": "https://github.com/Sykurpudar/week8#readme"
+}
