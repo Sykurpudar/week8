@@ -4,8 +4,10 @@
   "description": "A Maiden Voyage of my testing career",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "jest",
-    "watch": "jest --watchAll"
+    "watch": "jest --watchAll",
+    "clean": "rm -rf node_modules"
   },
   "repository": {
     "type": "git",
